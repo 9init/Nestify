@@ -1,0 +1,37 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MVC
+build_property.RootNamespace = MVC
+build_property.ProjectDir = /Users/lilhesham/CIC/Web Engineering/nestify/MVC/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/lilhesham/CIC/Web Engineering/nestify/MVC
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/lilhesham/CIC/Web Engineering/nestify/MVC/Views/Enroll/login-register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW5yb2xsL2xvZ2luLXJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lilhesham/CIC/Web Engineering/nestify/MVC/Views/Favorites/favorites.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmF2b3JpdGVzL2Zhdm9yaXRlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lilhesham/CIC/Web Engineering/nestify/MVC/Views/Home/home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9ob21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lilhesham/CIC/Web Engineering/nestify/MVC/Views/Home/search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9zZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lilhesham/CIC/Web Engineering/nestify/MVC/Views/Profile/profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZmlsZS9wcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,437 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/css/.DS_Store",
+      "PackagePath": "staticwebassets/css/.DS_Store"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/css/favourite-style.css",
+      "PackagePath": "staticwebassets/css/favourite-style.css"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/css/home-style.css",
+      "PackagePath": "staticwebassets/css/home-style.css"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/css/login-register-style.css",
+      "PackagePath": "staticwebassets/css/login-register-style.css"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/css/profile-style.css",
+      "PackagePath": "staticwebassets/css/profile-style.css"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/css/root.css",
+      "PackagePath": "staticwebassets/css/root.css"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/css/search-style.css",
+      "PackagePath": "staticwebassets/css/search-style.css"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/fonts/fa-brands-400.ttf",
+      "PackagePath": "staticwebassets/fonts/fa-brands-400.ttf"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/fonts/fa-brands-400.woff2",
+      "PackagePath": "staticwebassets/fonts/fa-brands-400.woff2"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/fonts/fa-regular-400.ttf",
+      "PackagePath": "staticwebassets/fonts/fa-regular-400.ttf"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/fonts/fa-regular-400.woff2",
+      "PackagePath": "staticwebassets/fonts/fa-regular-400.woff2"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/fonts/fa-solid-900.ttf",
+      "PackagePath": "staticwebassets/fonts/fa-solid-900.ttf"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/fonts/fa-solid-900.woff2",
+      "PackagePath": "staticwebassets/fonts/fa-solid-900.woff2"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/fonts/fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets/fonts/fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/fonts/fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets/fonts/fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/images/.DS_Store",
+      "PackagePath": "staticwebassets/images/.DS_Store"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/images/about-banner-1.png",
+      "PackagePath": "staticwebassets/images/about-banner-1.png"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/images/about-banner-2.jpg",
+      "PackagePath": "staticwebassets/images/about-banner-2.jpg"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/images/author.jpg",
+      "PackagePath": "staticwebassets/images/author.jpg"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/images/author2.jpg",
+      "PackagePath": "staticwebassets/images/author2.jpg"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/images/author3.jpg",
+      "PackagePath": "staticwebassets/images/author3.jpg"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/images/author4.jpg",
+      "PackagePath": "staticwebassets/images/author4.jpg"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/images/author5.jpg",
+      "PackagePath": "staticwebassets/images/author5.jpg"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/images/blog-1.png",
+      "PackagePath": "staticwebassets/images/blog-1.png"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/images/blog-2.jpg",
+      "PackagePath": "staticwebassets/images/blog-2.jpg"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/images/blog-3.jpg",
+      "PackagePath": "staticwebassets/images/blog-3.jpg"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/images/favicon.svg",
+      "PackagePath": "staticwebassets/images/favicon.svg"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/images/hero-banner.png",
+      "PackagePath": "staticwebassets/images/hero-banner.png"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/images/logo-light.png",
+      "PackagePath": "staticwebassets/images/logo-light.png"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/images/logo.png",
+      "PackagePath": "staticwebassets/images/logo.png"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/images/property-1.jpg",
+      "PackagePath": "staticwebassets/images/property-1.jpg"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/images/property-2.jpg",
+      "PackagePath": "staticwebassets/images/property-2.jpg"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/images/property-3.jpg",
+      "PackagePath": "staticwebassets/images/property-3.jpg"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/images/property-4.jpg",
+      "PackagePath": "staticwebassets/images/property-4.jpg"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/images/property-5.jpg",
+      "PackagePath": "staticwebassets/images/property-5.jpg"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/images/service-1.png",
+      "PackagePath": "staticwebassets/images/service-1.png"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/images/service-2.png",
+      "PackagePath": "staticwebassets/images/service-2.png"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/images/service-3.png",
+      "PackagePath": "staticwebassets/images/service-3.png"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/js/.DS_Store",
+      "PackagePath": "staticwebassets/js/.DS_Store"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/js/favorite.js",
+      "PackagePath": "staticwebassets/js/favorite.js"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/js/filter-script.js",
+      "PackagePath": "staticwebassets/js/filter-script.js"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/js/home-script.js",
+      "PackagePath": "staticwebassets/js/home-script.js"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/js/login-register-script.js",
+      "PackagePath": "staticwebassets/js/login-register-script.js"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/js/profile-script.js",
+      "PackagePath": "staticwebassets/js/profile-script.js"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/js/search.js",
+      "PackagePath": "staticwebassets/js/search.js"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/lilhesham/CIC/Web Engineering/nestify/MVC/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.MVC.props",
+      "PackagePath": "build\\MVC.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MVC.props",
+      "PackagePath": "buildMultiTargeting\\MVC.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MVC.props",
+      "PackagePath": "buildTransitive\\MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
